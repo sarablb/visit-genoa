@@ -80,7 +80,7 @@ p {
    HERO SECTION
 =========================== */
 #hero {
-  background-image: url("images/genoa.jpg");
+  background-image: url("genoa.jpg");
   background-size: cover;
   background-position: center;
   padding: 10em 2em;
